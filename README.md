@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Open-source contributor<br>🤝Actively contributing developer<br>🌱Hands-on software developer<br> I debug more than I code 😄
+🔭  Open-source contributor<br>🤝  Actively contributing developer<br>🌱  Hands-on software developer<br> 😄  I debug more than I code 
 
 
 # 💻 Tech Stack:
