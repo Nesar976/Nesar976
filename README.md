@@ -19,4 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=Nesar976&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![Snake animation](https://raw.githubusercontent.com/Nesar976/Nesar976/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Nesar976/Nesar976/output/github-snake-dark.svg)
